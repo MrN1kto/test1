@@ -1,0 +1,3 @@
+import math
+print ("log value for base 2:")
+print (math.log2(1024))

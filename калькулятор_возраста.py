@@ -1,0 +1,5 @@
+print("write your age please")
+x =("your age")
+x=input()
+y=("your age is ")
+print(y + x)
