@@ -1,7 +1,9 @@
-a = 2
-b = 5
-a = a+b
-b = a - b
-a = a - b
-print(a)
-print(b)
+a = int(input())
+b = int(input())
+
+
+def str(x, y):
+    return x + y
+
+
+print(str(a, b))
